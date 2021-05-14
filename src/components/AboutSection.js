@@ -32,7 +32,7 @@ import styled from 'styled-components'
   );
 }
 
-//styled compoenents
+//styled compoenentss
 const About=styled.div`
   min-height:90vh;
   display:flex;
